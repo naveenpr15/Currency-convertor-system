@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  base_currency_id: 1
+  currency: one
+  rate: 1.5
+
+two:
+  base_currency_id: 1
+  currency: two
+  rate: 1.5
